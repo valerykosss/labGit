@@ -1,0 +1,14 @@
+E:\2 курс БГТУ\ооп\лаба 7 сделать\lab7\bin\Debug\lab7.exe.config
+E:\2 курс БГТУ\ооп\лаба 7 сделать\lab7\bin\Debug\lab7.exe
+E:\2 курс БГТУ\ооп\лаба 7 сделать\lab7\bin\Debug\lab7.pdb
+E:\2 курс БГТУ\ооп\лаба 7 сделать\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+E:\2 курс БГТУ\ооп\лаба 7 сделать\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+E:\2 курс БГТУ\ооп\лаба 7 сделать\lab7\obj\Debug\lab7.exe
+E:\2 курс БГТУ\ооп\лаба 7 сделать\lab7\obj\Debug\lab7.pdb
+E:\2 курс БГТУ\ооп\лаба 7\lab7\bin\Debug\lab7.exe.config
+E:\2 курс БГТУ\ооп\лаба 7\lab7\bin\Debug\lab7.exe
+E:\2 курс БГТУ\ооп\лаба 7\lab7\bin\Debug\lab7.pdb
+E:\2 курс БГТУ\ооп\лаба 7\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+E:\2 курс БГТУ\ооп\лаба 7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+E:\2 курс БГТУ\ооп\лаба 7\lab7\obj\Debug\lab7.exe
+E:\2 курс БГТУ\ооп\лаба 7\lab7\obj\Debug\lab7.pdb
