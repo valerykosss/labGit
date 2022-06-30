@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Fuel>12</Fuel>
+    <VehicleCost>2000</VehicleCost>
+    <Speed>80</Speed>
+  </Car>
+  <Car>
+    <Fuel>9</Fuel>
+    <VehicleCost>7000</VehicleCost>
+    <Speed>70</Speed>
+  </Car>
+  <Car>
+    <Fuel>10</Fuel>
+    <VehicleCost>9000</VehicleCost>
+    <Speed>90</Speed>
+  </Car>
+</ArrayOfCar>

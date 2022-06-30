@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bikes>
+  <bike brand="Stels">
+    <manufacturerCountry>Russia</manufacturerCountry>
+  </bike>
+  <bike brand="Cannondale">
+    <manufacturerCountry>USA</manufacturerCountry>
+  </bike>
+</bikes>
