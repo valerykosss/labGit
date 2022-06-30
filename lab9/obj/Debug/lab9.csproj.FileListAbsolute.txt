@@ -1,0 +1,7 @@
+E:\2 курс БГТУ\ооп\лаба 9\lab9\bin\Debug\lab9.exe.config
+E:\2 курс БГТУ\ооп\лаба 9\lab9\bin\Debug\lab9.exe
+E:\2 курс БГТУ\ооп\лаба 9\lab9\bin\Debug\lab9.pdb
+E:\2 курс БГТУ\ооп\лаба 9\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+E:\2 курс БГТУ\ооп\лаба 9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+E:\2 курс БГТУ\ооп\лаба 9\lab9\obj\Debug\lab9.exe
+E:\2 курс БГТУ\ооп\лаба 9\lab9\obj\Debug\lab9.pdb
